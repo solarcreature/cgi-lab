@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# Inspired by https://github.com/aianta/cgi-lab
+
 import cgi
 import os
 from templates import login_page, secret_page
